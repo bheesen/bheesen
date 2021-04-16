@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bernd Heesen, Professor at the University of Applied Sciences Ansbach
-- 👀 I’m interested in sharing software
-- 🌱 I’m currently publishing a book and the code examples of the book are planned to be made available here
+- 👀 I’m interested in sharing software for the benefit of this community
+- 🌱 I’m offering data sets and code examples
 - 💞️ I’m looking to collaborate on data science and artificial intelligence
 - 📫 How to reach me: Mail at bernd.heesen@hs-ansbach.de
 
